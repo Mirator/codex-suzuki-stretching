@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="cs">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Suzuki Stretch Coach</title>
+    <meta name="description" content="Časovačem vedená rutina Suzukiho strečinku." />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="icon" href="assets/icons/play.svg" type="image/svg+xml" />
+  </head>
+  <body>
+    <header class="top-bar" role="banner">
+      <div class="top-bar__inner">
+        <a class="brand" href="#/">Suzuki Stretch Coach</a>
+        <nav aria-label="Hlavní navigace" class="nav">
+          <a href="#/" data-route="/">Domů</a>
+          <a href="#/session" data-route="/session">Session</a>
+          <a href="#/exercises" data-route="/exercises">Cviky</a>
+          <a href="#/settings" data-route="/settings">Nastavení</a>
+          <a href="#/progress" data-route="/progress">Pokrok</a>
+        </nav>
+      </div>
+    </header>
+    <main id="app" tabindex="-1"></main>
+    <div id="modal-root" aria-live="polite"></div>
+    <noscript>
+      <p class="noscript">Tato aplikace potřebuje JavaScript. Prosím, povolte jej.</p>
+    </noscript>
+    <script type="module" src="app.js"></script>
+  </body>
+</html>

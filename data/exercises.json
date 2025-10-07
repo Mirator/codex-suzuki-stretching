@@ -1,0 +1,352 @@
+[
+  {
+    "id": "deep-squat-groin",
+    "name": { "cs": "Hluboký dřep - kyčle", "en": "Deep Squat Groin" },
+    "asym": false,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Kolena tlačit ven", "Páteř dlouhá, hrudník otevřený", "Fáze A držet 10 s", "Fáze B mírně prohloubit"],
+      "en": ["Press knees outward", "Keep spine long and chest open", "Hold phase A for 10 s", "Deepen gently in phase B"]
+    }
+  },
+  {
+    "id": "seated-straddle-prep",
+    "name": { "cs": "Sed široký - příprava", "en": "Seated Straddle Prep" },
+    "asym": false,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Sedět na sedacích kostech", "Chodidla flexovat", "Aktivní střed těla", "Nádech nahoru, výdech do předklonu"],
+      "en": ["Sit on sit bones", "Flex the feet", "Engage the core", "Inhale tall, exhale to hinge"]
+    }
+  },
+  {
+    "id": "standing-hamstring-soft-knee",
+    "name": { "cs": "Stoj předklon - měkká kolena", "en": "Standing Hamstring Soft Knee" },
+    "asym": true,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Zadní noha lehce pokrčená", "Pánev neutrální", "Fáze A jemný tah", "Fáze B přiblížit hrudník"],
+      "en": ["Back knee softly bent", "Keep pelvis neutral", "Phase A gentle traction", "Phase B draw chest closer"]
+    }
+  },
+  {
+    "id": "runners-lunge-knee-up",
+    "name": { "cs": "Výpad běžce - koleno nahoře", "en": "Runner's Lunge Knee Up" },
+    "asym": true,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Koleno nad kotníkem", "Zadní noha dlouhá", "Tlačit kyčel k podlaze", "Výdech prohloubení"],
+      "en": ["Front knee over ankle", "Back leg long", "Sink hip toward floor", "Exhale to deepen"]
+    }
+  },
+  {
+    "id": "wide-knee-squat",
+    "name": { "cs": "Široký dřep s koleny ven", "en": "Wide Knee Squat" },
+    "asym": false,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Kolena ven a dolů", "Lokty tlačí stehna", "Fáze A prodýchat", "Fáze B přitáhnout pánev"],
+      "en": ["Knees move outward", "Elbows press thighs", "Breathe through phase A", "Pull pelvis closer in phase B"]
+    }
+  },
+  {
+    "id": "supine-single-leg-hamstring",
+    "name": { "cs": "Leh - hamstring jedna noha", "en": "Supine Single-Leg Hamstring" },
+    "asym": true,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Pánev na zemi", "Kotník flex", "Držet stehno ve stejné linii", "Přitáhnout jen do příjemného tahu"],
+      "en": ["Pelvis grounded", "Flex the ankle", "Keep thigh in line", "Only to a pleasant stretch"]
+    }
+  },
+  {
+    "id": "supine-middle-split",
+    "name": { "cs": "Leh - středový rozštěp", "en": "Supine Middle Split" },
+    "asym": false,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Bedra přilepená", "Chodidla flex", "Kolena natažená", "Dech do třísel"],
+      "en": ["Lower back grounded", "Flex feet", "Knees straight", "Breathe into groin"]
+    }
+  },
+  {
+    "id": "supine-hip-external-rotation",
+    "name": { "cs": "Leh - vnější rotace kyčle", "en": "Supine Hip External Rotation" },
+    "asym": true,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Kotník přes koleno", "Bedra těžká", "Koleno směrem od těla", "Fáze B jemně přitlačit"],
+      "en": ["Ankle crosses knee", "Heavy through low back", "Knee moves away", "Press gently in phase B"]
+    }
+  },
+  {
+    "id": "butterfly",
+    "name": { "cs": "Motýlek", "en": "Butterfly" },
+    "asym": false,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Chodidla spojit", "Kolena k zemi", "Páteř vzpřímená", "Lokty nechte uvolněné"],
+      "en": ["Bring soles together", "Knees toward floor", "Spine upright", "Relax the elbows"]
+    }
+  },
+  {
+    "id": "seated-single-leg-forward-fold",
+    "name": { "cs": "Sed - předklon k jedné noze", "en": "Seated Single-Leg Forward Fold" },
+    "asym": true,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Sedací kosti v zemi", "Vytáhnout se do dálky", "Fáze A hrudník k stehnu", "Fáze B přitáhnout chodidlo"],
+      "en": ["Ground the sit bones", "Reach long through spine", "Phase A chest to thigh", "Phase B draw foot closer"]
+    }
+  },
+  {
+    "id": "seated-pancake-fold",
+    "name": { "cs": "Sed - pancake předklon", "en": "Seated Pancake Fold" },
+    "asym": false,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Kolena natažená", "Pánev vpřed", "Fáze A ruce na podložce", "Fáze B posunout dlaně dál"],
+      "en": ["Legs straight", "Tilt pelvis forward", "Phase A hands on floor", "Phase B walk hands forward"]
+    }
+  },
+  {
+    "id": "half-middle-split-side-fold",
+    "name": { "cs": "Půlka střihu - boční předklon", "en": "Half Middle Split Side Fold" },
+    "asym": true,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Koleno spodní nohy pod kyčel", "Horní noha natažená", "Fáze A opora o předloktí", "Fáze B přiblížit trup"],
+      "en": ["Bottom knee under hip", "Top leg long", "Phase A support on forearm", "Phase B draw torso closer"]
+    }
+  },
+  {
+    "id": "seated-spinal-twist",
+    "name": { "cs": "Sed - rotační twist", "en": "Seated Spinal Twist" },
+    "asym": true,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Sed vysoký", "Otočit od pasu", "Ramena dolů", "Fáze B pohled přes rameno"],
+      "en": ["Sit tall", "Rotate from waist", "Shoulders down", "Phase B gaze past shoulder"]
+    }
+  },
+  {
+    "id": "kneeling-quad-hip-flexor",
+    "name": { "cs": "Klek - stehenní a kyčelní flexor", "en": "Kneeling Quad Hip Flexor" },
+    "asym": true,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Pánev podsadit", "Žebra dolů", "Tlačit kyčel vpřed", "Fáze B přidat náklon"],
+      "en": ["Posterior tilt pelvis", "Drop ribs down", "Drive hip forward", "Phase B add gentle lean"]
+    }
+  },
+  {
+    "id": "bridge-prep-table",
+    "name": { "cs": "Most - příprava stolek", "en": "Bridge Prep Table" },
+    "asym": false,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Dlaně pod rameny", "Aktivní lopatky", "Hrudník vzhůru", "Hlava neutrálně"],
+      "en": ["Hands under shoulders", "Activate shoulder blades", "Lift chest up", "Head neutral"]
+    }
+  },
+  {
+    "id": "full-bridge-wheel",
+    "name": { "cs": "Plný most - kolo", "en": "Full Bridge Wheel" },
+    "asym": false,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Dlaně otáčet k nohám", "Tlačit přes stehna", "Fáze A uvolnit ramena", "Fáze B otevřít hrudník"],
+      "en": ["Rotate palms toward feet", "Drive through thighs", "Phase A relax shoulders", "Phase B open chest"]
+    }
+  },
+  {
+    "id": "hollow-boat-tuck",
+    "name": { "cs": "Dutá loďka - skrčení", "en": "Hollow Boat Tuck" },
+    "asym": false,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Bedra přilepit", "Žebra dovnitř", "Kolena v pravém úhlu", "Dýchat do břicha"],
+      "en": ["Press low back down", "Ribs knit in", "Knees at right angle", "Breathe into belly"]
+    }
+  },
+  {
+    "id": "tuck-support-lsit-prep",
+    "name": { "cs": "Opora ve skrčení - příprava L-sit", "en": "Tuck Support L-Sit Prep" },
+    "asym": false,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Dlaně pevně v zemi", "Ramena od uší", "Kolena k hrudníku", "Fáze B protáhnout sedací kosti"],
+      "en": ["Hands press firmly", "Shoulders away from ears", "Knees toward chest", "Phase B lengthen sit bones"]
+    }
+  },
+  {
+    "id": "crow-prep",
+    "name": { "cs": "Vrána - příprava", "en": "Crow Prep" },
+    "asym": false,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Kolena na tricepsy", "Pohled vpřed", "Aktivní prsty", "Fáze B odlehčit chodidla"],
+      "en": ["Knees hug triceps", "Gaze forward", "Active fingers", "Phase B lighten the feet"]
+    }
+  },
+  {
+    "id": "low-straddle-lean",
+    "name": { "cs": "Nízký rozštěp - náklon", "en": "Low Straddle Lean" },
+    "asym": false,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Kolena a prsty vpřed", "Pánev nízko", "Fáze A jemný tlak", "Fáze B otevřít kyčle"],
+      "en": ["Knees and toes forward", "Keep hips low", "Phase A gentle pressure", "Phase B open hips"]
+    }
+  },
+  {
+    "id": "front-split-prep",
+    "name": { "cs": "Provaz - příprava", "en": "Front Split Prep" },
+    "asym": true,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Pánev čelem vpřed", "Zadní noha aktivní", "Fáze A ruce na podložce", "Fáze B posunout bloky"],
+      "en": ["Square the hips", "Back leg engaged", "Phase A hands on floor", "Phase B adjust blocks"]
+    }
+  },
+  {
+    "id": "front-split",
+    "name": { "cs": "Provaz (přední)", "en": "Front Split" },
+    "asym": true,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Jít pomalu", "Fáze A držet 10 s", "Fáze B prohloubit dech", "Bez kmitání"],
+      "en": ["Enter slowly", "Hold 10 s in phase A", "Phase B deepen with breath", "No bouncing"]
+    }
+  },
+  {
+    "id": "middle-split",
+    "name": { "cs": "Provaz střední", "en": "Middle Split" },
+    "asym": false,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Pánev neutrální", "Kolena vzhůru", "Fáze A podpírat rukama", "Fáze B klesnout níž"],
+      "en": ["Pelvis neutral", "Knees face up", "Support with hands in phase A", "Lower gently in phase B"]
+    }
+  },
+  {
+    "id": "seated-wide-straddle-fold",
+    "name": { "cs": "Sed - široký předklon", "en": "Seated Wide Straddle Fold" },
+    "asym": false,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Chodidla flex", "Páteř rovná", "Fáze A dlaně na zemi", "Fáze B hrudník níž"],
+      "en": ["Flex the feet", "Keep spine long", "Hands down in phase A", "Phase B chest lower"]
+    }
+  },
+  {
+    "id": "partner-hip-external-rotation",
+    "name": { "cs": "Partner - vnější rotace kyčle", "en": "Partner Hip External Rotation" },
+    "asym": true,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Komunikovat rozsah", "Partner tlačí plynule", "Fáze A dech klidný", "Fáze B malé prohloubení"],
+      "en": ["Communicate range", "Partner applies smooth pressure", "Steady breathing in phase A", "Small deepen in phase B"]
+    }
+  },
+  {
+    "id": "partner-assisted-hamstring",
+    "name": { "cs": "Partner - hamstring", "en": "Partner Assisted Hamstring" },
+    "asym": true,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Koleno natažené", "Partner drží patu", "Zastavit při diskomfortu", "Výdech prohloubení"],
+      "en": ["Keep knee straight", "Partner supports heel", "Stop at discomfort", "Exhale to deepen"]
+    }
+  },
+  {
+    "id": "partner-assisted-pike",
+    "name": { "cs": "Partner - předklon", "en": "Partner Assisted Pike" },
+    "asym": false,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Pánev nad patami", "Partner tlačí bedra", "Fáze A stabilizovat", "Fáze B malý tlak"],
+      "en": ["Hips over heels", "Partner guides lower back", "Stabilise in phase A", "Phase B gentle pressure"]
+    }
+  },
+  {
+    "id": "partner-side-lying-quad",
+    "name": { "cs": "Partner - ležící kvadriceps", "en": "Partner Side-Lying Quad" },
+    "asym": true,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Koleno v jedné linii", "Partner drží kyčel", "Fáze A otevřít stehno", "Fáze B přitáhnout patu"],
+      "en": ["Knee in one line", "Partner stabilises hip", "Open thigh in phase A", "Phase B draw heel closer"]
+    }
+  },
+  {
+    "id": "partner-standing-pec-shoulder",
+    "name": { "cs": "Partner - hrudník a rameno", "en": "Partner Standing Pec Shoulder" },
+    "asym": false,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Prsty propletené", "Otevřít hrudník", "Partner opatrně tlačí", "Dýchat do horní části"],
+      "en": ["Interlace fingers", "Open the chest", "Partner presses carefully", "Breathe into upper body"]
+    }
+  },
+  {
+    "id": "partner-assisted-side-lunge",
+    "name": { "cs": "Partner - boční výpad", "en": "Partner Assisted Side Lunge" },
+    "asym": true,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Chodidlo celé na zemi", "Partner podpírá trup", "Fáze A stabilně", "Fáze B prohloubit posun"],
+      "en": ["Foot fully planted", "Partner supports torso", "Stay stable in phase A", "Phase B deepen shift"]
+    }
+  },
+  {
+    "id": "partner-assisted-front-split-press",
+    "name": { "cs": "Partner - tlak do provazu", "en": "Partner Assisted Front Split Press" },
+    "asym": true,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Komunikovat tlak", "Partner tlačí na pánev", "Fáze A držet nastavení", "Fáze B lehké prohloubení"],
+      "en": ["Communicate pressure", "Partner presses at pelvis", "Hold alignment in phase A", "Slight deepen in phase B"]
+    }
+  },
+  {
+    "id": "partner-assisted-hip-flexor-quad",
+    "name": { "cs": "Partner - kyčelní flexor a kvadriceps", "en": "Partner Assisted Hip Flexor Quad" },
+    "asym": true,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Koleno chránit podložkou", "Partner podpírá trup", "Fáze A dýchat do stehna", "Fáze B posunout pánev"],
+      "en": ["Pad under knee", "Partner supports torso", "Breathe into thigh", "Phase B move hips forward"]
+    }
+  },
+  {
+    "id": "partner-assisted-overhead-shoulder-flexion",
+    "name": { "cs": "Partner - protažení nad hlavou", "en": "Partner Assisted Overhead Shoulder Flexion" },
+    "asym": false,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Břicho aktivní", "Partner drží za zápěstí", "Fáze A otevřít ramena", "Fáze B lehký tlak dozadu"],
+      "en": ["Engage the core", "Partner holds wrists", "Open shoulders in phase A", "Phase B gentle push back"]
+    }
+  },
+  {
+    "id": "partner-assisted-standing-hamstring-lift",
+    "name": { "cs": "Partner - zvednutý hamstring", "en": "Partner Assisted Standing Hamstring Lift" },
+    "asym": true,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Stojná noha pevná", "Partner podpírá patu", "Fáze A jen lehký tlak", "Fáze B přiblížit stehno"],
+      "en": ["Standing leg steady", "Partner supports heel", "Light pressure in phase A", "Phase B bring thigh closer"]
+    }
+  },
+  {
+    "id": "partner-assisted-standing-front-split-lift",
+    "name": { "cs": "Partner - zvedaný provaz", "en": "Partner Assisted Standing Front Split Lift" },
+    "asym": true,
+    "image": "assets/exercises/placeholder.svg",
+    "cues": {
+      "cs": ["Střed těla aktivní", "Partner vede nohu", "Fáze A vyrovnat pánev", "Fáze B zvednout jen do komfortu"],
+      "en": ["Engage the core", "Partner guides the leg", "Level hips in phase A", "Phase B lift only to comfort"]
+    }
+  }
+]
